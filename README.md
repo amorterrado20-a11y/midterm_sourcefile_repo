@@ -10,3 +10,5 @@ This repository contains my JavaScript source files for the midterm.
 - Week 6: Stacks, Queues, Linked Lists
 ## Purpose
 This repository is for my CC104 midterm JavaScript source files.
+## Midterm Source Files Demo
+Final submission for the CC104 midterm source files.
