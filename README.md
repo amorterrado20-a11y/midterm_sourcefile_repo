@@ -8,3 +8,5 @@ This repository contains my JavaScript source files for the midterm.
 - Week 4: Lesson 1 Part 2
 - Week 5: DSA - Arrays
 - Week 6: Stacks, Queues, Linked Lists
+## Purpose
+This repository is for my CC104 midterm JavaScript source files.
